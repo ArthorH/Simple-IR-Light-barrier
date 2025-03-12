@@ -1,7 +1,7 @@
 # Simple IR Light barrier
 Very simplistic light barrier based on NE555 and TSSP4038 sensor
 ![SimpleRXTX](https://github.com/user-attachments/assets/b3eeae9e-8f81-4742-aef2-0a2d7b0987be)
-## Project Status: **Compleated**  
+## Project Status: **completed** 
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ✅ — **Bringup** ✅ — **Testing** ✅  
 ## Key technologies:
 <img align="center" height="70" src="https://github.com/user-attachments/assets/b9e7a733-c604-4bd4-b8ea-bd48c80eab4d">&nbsp;&nbsp;&nbsp;&nbsp;
