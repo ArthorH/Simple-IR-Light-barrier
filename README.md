@@ -17,6 +17,11 @@ TSSP series **IS NOT** pin compatible with TSOP seriers sensors.
 **DO NOT** use sensors with continious carrier rejection such as TSOP4838
 
 TSSP/TSOP can reliably detect up to 1KHz modulated signal
+## Completed:
+![IMG_0506](https://github.com/user-attachments/assets/5c52617e-c47b-47f2-917d-f356e8ec36ba)
+
+
+
 ## Author:
 Artem Horiunov
 ## License:
